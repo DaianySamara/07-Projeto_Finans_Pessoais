@@ -1,2 +1,2 @@
-#Projeto-7: Finans - finanças pessoais
+<display>Projeto-7: Finans - finanças pessoais</display>
 ![Finans](https://user-images.githubusercontent.com/97393143/162803202-bc187d57-17cf-44a8-960e-87de84993e92.png)
